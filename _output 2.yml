@@ -1,6 +1,0 @@
-date: 2020
-header-includes: 
-- preamble.tex
-documentclass: ufpr[final,oneside,english,brazilian]
-output:
-  pdf_document: default

@@ -1,3 +1,0 @@
-\bibliographystyle{apalike-ptbr.bst}	
-
-\bibliography{book.bib}

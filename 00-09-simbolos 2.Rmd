@@ -1,7 +1,0 @@
-\begin{listasimb}
-
-\begin{longtable}[l]{p{0.2\linewidth}p{0.7\linewidth}}
-
-\end{longtable}
-
-\end{listasimb}
