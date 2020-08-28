@@ -1,0 +1,60 @@
+\babel@toc {nil}{}
+\babel@toc {brazilian}{}
+\babel@toc {nil}{}
+\babel@toc {english}{}
+\babel@toc {nil}{}
+\contentsline {chapter}{\numberline {1}Introdução}{10}{chapter.8}%
+\contentsline {chapter}{\numberline {2}Literatura}{12}{chapter.10}%
+\contentsline {section}{Guias de \LaTeX }{12}{section*.11}%
+\contentsline {section}{Estrutura do texto}{12}{section*.12}%
+\contentsline {section}{Estilo de redação}{12}{section*.13}%
+\contentsline {section}{Alguns exemplos}{13}{section*.14}%
+\contentsline {subsection}{Exemplo de figura}{13}{subsection*.15}%
+\contentsline {subsection}{Exemplo de tabela}{14}{subsection*.18}%
+\contentsline {subsection}{Exemplo de fórmula}{14}{subsection*.20}%
+\contentsline {subsection}{Exemplos de código-fonte}{14}{subsection*.22}%
+\contentsline {subsection}{Exemplo de algoritmo}{15}{subsection*.23}%
+\contentsline {subsection}{Exemplo de citação}{15}{subsection*.24}%
+\contentsline {section}{Uma seção}{15}{section*.25}%
+\contentsline {subsection}{Uma subseção}{15}{subsection*.26}%
+\contentsline {subsubsection}{Uma subsubseção}{15}{subsubsection*.27}%
+\contentsline {section}{Conclusão}{15}{section*.28}%
+\contentsline {chapter}{\numberline {3}Método}{16}{chapter.29}%
+\contentsline {section}{Guias de \LaTeX }{16}{section*.30}%
+\contentsline {section}{Estrutura do texto}{16}{section*.31}%
+\contentsline {section}{Estilo de redação}{16}{section*.32}%
+\contentsline {section}{Alguns exemplos}{17}{section*.33}%
+\contentsline {subsection}{Exemplo de figura}{17}{subsection*.34}%
+\contentsline {subsection}{Exemplo de tabela}{18}{subsection*.37}%
+\contentsline {subsection}{Exemplo de fórmula}{18}{subsection*.39}%
+\contentsline {subsection}{Exemplos de código-fonte}{18}{subsection*.41}%
+\contentsline {subsection}{Exemplo de algoritmo}{19}{subsection*.42}%
+\contentsline {subsection}{Exemplo de citação}{19}{subsection*.43}%
+\contentsline {section}{Uma seção}{19}{section*.44}%
+\contentsline {subsection}{Uma subseção}{19}{subsection*.45}%
+\contentsline {subsubsection}{Uma subsubseção}{19}{subsubsection*.46}%
+\contentsline {section}{Conclusão}{19}{section*.47}%
+\contentsline {chapter}{\numberline {4}Aplicação}{20}{chapter.48}%
+\contentsline {section}{Guias de \LaTeX }{20}{section*.49}%
+\contentsline {section}{Estrutura do texto}{20}{section*.50}%
+\contentsline {section}{Estilo de redação}{20}{section*.51}%
+\contentsline {section}{Alguns exemplos}{21}{section*.52}%
+\contentsline {subsection}{Exemplo de figura}{21}{subsection*.53}%
+\contentsline {subsection}{Exemplo de tabela}{22}{subsection*.56}%
+\contentsline {subsection}{Exemplo de fórmula}{22}{subsection*.58}%
+\contentsline {subsection}{Exemplos de código-fonte}{22}{subsection*.60}%
+\contentsline {subsection}{Exemplo de algoritmo}{23}{subsection*.61}%
+\contentsline {subsection}{Exemplo de citação}{23}{subsection*.62}%
+\contentsline {section}{Uma seção}{23}{section*.63}%
+\contentsline {subsection}{Uma subseção}{23}{subsection*.64}%
+\contentsline {subsubsection}{Uma subsubseção}{23}{subsubsection*.65}%
+\contentsline {section}{Conclusão}{23}{section*.66}%
+\contentsline {chapter}{\numberline {5}Considerações Finais}{24}{chapter.67}%
+\contentsline {chapter}{Bibliography}{25}{chapter*.68}%
+\contentsline {chapter}{\numberline {6}Exemplo de anexo}{26}{chapter.69}%
+\contentsline {section}{Uma Seção}{26}{section*.70}%
+\contentsline {subsection}{Uma Subseção}{27}{subsection*.71}%
+\contentsline {subsubsection}{Uma Subsubseção}{28}{subsubsection*.72}%
+\contentsline {chapter}{\numberline {7}Testes de alinhamento de listas}{29}{chapter.73}%
+\contentsline {section}{Outra seção}{29}{section*.74}%
+\contentsfinish 
