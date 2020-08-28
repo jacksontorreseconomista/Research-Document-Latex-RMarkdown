@@ -43,8 +43,31 @@
 %------------------------------------------------------------------------------
 
 \newenvironment{lstlisting}{}
+%\usepackage{listings}
 
-\newenvironment{longtable}
+\newenvironment{longtable}{}
+
+\newenvironment{catalografica}{}
+
+\usepackage{pdfpages}
+
+%\usepackage{pslatex}
+%\usepackage{times}
+\usepackage{tgtermes}
+%\usepackage{mathptmx}
+
+
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+
+\usepackage{graphicx}
+\usepackage[abspath]{currfile}
+
+\usepackage{algorithm,algorithmic}
+
+
+%\renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries}
 
 % OPÇÕES DESTA CLASSE
 

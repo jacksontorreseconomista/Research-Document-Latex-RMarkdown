@@ -1,10 +1,9 @@
 \begin{listaacron}
 
-```{r, echo=FALSE, message=FALSE, results='asis'}
-library(knitr)
-simba <- data.frame(Simbolo = c('UFPR', 'BACEN', 'FEBRABAN'), Descrição = c('Universidade Federal do Paraná', 'Banco Central do Brasil', 'Federação dos Bancos do Brasil'))
-simba <- kable(simba, align = 'l', )
-print(simba, justify)
-```
+\begin{longtable}[l]{p{0.2\linewidth}p{0.7\linewidth}}
+DINF & Departamento de Informática\\
+PPGINF & Programa de Pós-Graduação em Informática\\
+UFPR & Universidade Federal do Paraná\\
+\end{longtable}
 
 \end{listaacron}

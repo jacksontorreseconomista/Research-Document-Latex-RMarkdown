@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.27)  28 AUG 2020 10:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.27)  28 AUG 2020 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,167 +7,24 @@ entering extended mode
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-08-07> (./ufpr.cls
 Document Class: ufpr 2020/06/24 Manuscript LaTeX class for UFPR
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-)
-\c@part=\count168
-\c@chapter=\count169
-\c@section=\count170
-\c@subsection=\count171
-\c@subsubsection=\count172
-\c@paragraph=\count173
-\c@subparagraph=\count174
-\c@figure=\count175
-\c@table=\count176
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen134
-) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/07/13 3.47 The Babel package
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/07/13 3.47 Babel common definitions
-\babel@savecnt=\count177
-\U@D=\dimen135
-\l@babelnohyphens=\language3
 
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def
-)
-\bbl@readstream=\read2
-)
-\bbl@dirlevel=\count178
-Package babel Info: You haven't specified a language. I'll use 'nil'
-(babel)             as the main language. Reported on input line 1075.
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/nil.ldf
-Language: nil 2020/07/13 3.47 Nil language
-\l@nil=\language4
-))
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/iflang.st
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/pdfpages/pdfpages.st
 y
-Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
-
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarer
-r.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexc
-mds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.st
-y
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package iflang Info: Naming convention for patterns: babel.
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count179
-\Gm@cntv=\count180
-\c@Gm@tempcnt=\count181
-\Gm@bindingoffset=\dimen136
-\Gm@wd@mp=\dimen137
-\Gm@odd@mp=\dimen138
-\Gm@even@mp=\dimen139
-\Gm@layoutwidth=\dimen140
-\Gm@layoutheight=\dimen141
-\Gm@layouthoffset=\dimen142
-\Gm@layoutvoffset=\dimen143
-\Gm@dimlist=\toks16
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.st
-y
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box45
-\beforetitleunit=\skip49
-\aftertitleunit=\skip50
-\ttl@plus=\dimen144
-\ttl@minus=\dimen145
-\ttl@toksa=\toks17
-\titlewidth=\dimen146
-\titlewidthlast=\dimen147
-\titlewidthfirst=\dimen148
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.st
-y
-Package: titletoc 2019/10/16 v2.13 TOC entries
-\ttl@leftsep=\dimen149
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tocbibind/tocbibind.
-sty
-Package: tocbibind 2010/10/13 v1.5k extra ToC listings
-Package tocbibind Info: The document has chapter divisions on input line 50.
-
-Package tocbibind Note: Using chapter style headings, unless overridden.
-
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.st
-y
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip51
-\enit@outerparindent=\dimen150
-\enit@toks=\toks18
-\enit@inbox=\box46
-\enit@count@id=\count182
-\enitdp@description=\count183
-) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.st
-y
-Package: caption 2020/05/30 v3.4k Customizing captions (AR)
-
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 61.
-\captionmargin=\dimen151
-\captionmargin@=\dimen152
-\captionwidth=\dimen153
-\caption@tempdima=\dimen154
-\caption@indent=\dimen155
-\caption@parindent=\dimen156
-\caption@hangindent=\dimen157
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count184
-\c@continuedfloat=\count185
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.st
-y
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/wallpaper/wallpaper.
-sty
-Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count186
-\calc@Bcount=\count187
-\calc@Adimen=\dimen158
-\calc@Bdimen=\dimen159
-\calc@Askip=\skip52
-\calc@Bskip=\skip53
+\calc@Acount=\count168
+\calc@Bcount=\count169
+\calc@Adimen=\dimen134
+\calc@Bdimen=\dimen135
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count188
-\calc@Cskip=\skip54
+\calc@Ccount=\count170
+\calc@Cskip=\skip49
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.st
 y
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
@@ -175,6 +32,20 @@ Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/atbegshi/atbegshi.
 sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarer
+r.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.st
+y
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.s
+ty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -214,40 +85,250 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen160
-\Gin@req@width=\dimen161
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
 )
-\wpXoffset=\skip55
-\wpYoffset=\skip56
-\tileXoffset=\skip57
-\tileYoffset=\skip58
-\tilewidth=\skip59
-\tileheight=\skip60
-\tileX=\skip61
-\tileY=\skip62
+\AM@pagewidth=\dimen138
+\AM@pageheight=\dimen139
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/pdfpages/pppdftex.de
+f
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks16
+\AM@pagecnt=\count171
+\AM@toc@title=\toks17
+\c@AM@survey=\count172
+\AM@templatesizebox=\box46
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tex-gyre/tgtermes.st
+y
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.
+sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkey
+s.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/psnfss/helvet.st
+y
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/currfile/currfile.st
+y
+Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curre
+nt input file
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/filehook/filehook.st
+y
+Package: filehook 2020/02/03 v0.7 Hooks for input files
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/currfile/currfile-ab
+spath.sty
+Package: currfile-abspath 2015/04/23 v0.7c Provides absolute file paths, the pa
+rent working directory and the main file name
+)
+\c@currfiledepth=\count173
+
+Package currfile-abspath Warning: The required recorder file (.fls) was not fou
+nd.
+(currfile-abspath)                Please compile with the '-recorder' option.
+(currfile-abspath)                Note that MikTeX requires two compiler runs.
+(currfile-abspath)                Occurred on input line 292.
+
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/algorithms/algorithm
+.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count174
+\float@exts=\toks18
+\float@box=\box47
+\@float@everytoks=\toks19
+\@floatcapt=\box48
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count175
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/algorithms/algorithm
+ic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count176
+\c@ALC@line=\count177
+\c@ALC@rem=\count178
+\c@ALC@depth=\count179
+\ALC@tlm=\skip50
+\algorithmicindent=\skip51
+) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX Font Info:    Trying to load font information for OT1+qtm on input line 5
+4.
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tex-gyre/ot1qtm.fd
+File: ot1qtm.fd 2009/09/25 v1.2 font definition file for OT1/qtm
+))
+\c@part=\count180
+\c@chapter=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\bibindent=\dimen140
+) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/07/13 3.47 The Babel package
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/07/13 3.47 Babel common definitions
+\babel@savecnt=\count189
+\U@D=\dimen141
+\l@babelnohyphens=\language3
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def
+)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count190
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1075.
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2020/07/13 3.47 Nil language
+\l@nil=\language4
+))
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/iflang.st
+y
+Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexc
+mds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package iflang Info: Naming convention for patterns: babel.
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks21
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.st
+y
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box49
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
+\ttl@toksa=\toks22
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.st
+y
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen155
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tocbibind/tocbibind.
+sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.st
+y
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip56
+\enit@outerparindent=\dimen156
+\enit@toks=\toks23
+\enit@inbox=\box50
+\enit@count@id=\count194
+\enitdp@description=\count195
+) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.st
+y
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+Package caption Info: float package is loaded.
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.st
+y
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/wallpaper/wallpaper.
+sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+\wpXoffset=\skip57
+\wpYoffset=\skip58
+\tileXoffset=\skip59
+\tileYoffset=\skip60
+\tilewidth=\skip61
+\tileheight=\skip62
+\tileX=\skip63
+\tileY=\skip64
 )
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.st
 y
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 )
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.st
 y
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkey
-s.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdef
 inekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -266,13 +347,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.
-sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-)
-\@linkdim=\dimen162
-\Hy@linkcounter=\count189
-\Hy@pagecounter=\count190
+\@linkdim=\dimen164
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -286,7 +363,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count191
+\Hy@SavedSpaceFactor=\count266
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
@@ -302,9 +379,9 @@ Package hyperref Info: Plain pages ON on input line 4477.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count192
+\c@Hy@tempcnt=\count267
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen163
+\XeTeXLinkMargin=\dimen165
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
@@ -313,9 +390,9 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count193
-\Field@Width=\dimen164
-\Fld@charsize=\dimen165
+\Fld@menulength=\count268
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -325,9 +402,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
-\Hy@abspage=\count194
-\c@Item=\count195
-\c@Hfootnote=\count196
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -339,8 +416,8 @@ sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count197
-\c@bookmark@seq@number=\count198
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
 
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerun
 filecheck.sty
@@ -353,7 +430,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip72
+\Hy@SectionHShift=\skip74
 )
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.st
 y
@@ -362,20 +439,20 @@ Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.
 def
 File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
-\BKM@id=\count199
+\BKM@id=\count274
 ))
-Package hyperref Info: Option `hypertexnames' set `false' on input line 443.
-Package hyperref Info: Option `colorlinks' set `false' on input line 443.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 466.
+Package hyperref Info: Option `colorlinks' set `false' on input line 466.
 
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.
 sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks19
-\MT@count=\count266
+\MT@toks=\toks24
+\MT@count=\count275
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen166
+\MT@outer@kern=\dimen168
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count267
+\MT@listname@count=\count276
 
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-
 pdftex.def
@@ -383,7 +460,7 @@ File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip73
+\MT@outer@space=\skip75
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -431,7 +508,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.st
 y
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
+\@emptytoks=\toks25
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -440,56 +517,56 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.s
 ty
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip74
+\@mathmargin=\skip76
 For additional information on amsmath, use the `?' option.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen167
+\@emptytoks=\toks26
+\ex@=\dimen169
 )) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.st
 y
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen168
+\pmbraise@=\dimen170
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count268
+\inf@bad=\count277
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count269
-\leftroot@=\count270
+\uproot@=\count278
+\leftroot@=\count279
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count271
-\DOTSCASE@=\count272
+\classnum@=\count280
+\DOTSCASE@=\count281
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen169
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen171
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count273
-\c@MaxMatrixCols=\count274
+\macc@depth=\count282
+\c@MaxMatrixCols=\count283
 \dotsspace@=\muskip17
-\c@parentequation=\count275
-\dspbrk@lvl=\count276
-\tag@help=\toks22
-\row@=\count277
-\column@=\count278
-\maxfields@=\count279
-\andhelp@=\toks23
-\eqnshift@=\dimen170
-\alignsep@=\dimen171
-\tagshift@=\dimen172
-\tagwidth@=\dimen173
-\totwidth@=\dimen174
-\lineht@=\dimen175
-\@envbody=\toks24
-\multlinegap=\skip75
-\multlinetaggap=\skip76
-\mathdisplay@stack=\toks25
+\c@parentequation=\count284
+\dspbrk@lvl=\count285
+\tag@help=\toks27
+\row@=\count286
+\column@=\count287
+\maxfields@=\count288
+\andhelp@=\toks28
+\eqnshift@=\dimen172
+\alignsep@=\dimen173
+\tagshift@=\dimen174
+\tagwidth@=\dimen175
+\totwidth@=\dimen176
+\lineht@=\dimen177
+\@envbody=\toks29
+\multlinegap=\skip77
+\multlinetaggap=\skip78
+\mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.st
@@ -509,14 +586,14 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-2.
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+12.
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks26
-\inpenc@posthook=\toks27
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
@@ -525,64 +602,64 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 33.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.st
 y
 Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count280
+\FV@CodeLineNo=\count289
 \FV@InFile=\read3
-\FV@TabBox=\box49
-\c@FancyVerbLine=\count281
-\FV@StepNumber=\count282
+\FV@TabBox=\box53
+\c@FancyVerbLine=\count290
+\FV@StepNumber=\count291
 \FV@OutFile=\write3
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip77
-\fb@frw=\dimen176
-\fb@frh=\dimen177
-\FrameRule=\dimen178
-\FrameSep=\dimen179
+\OuterFrameSep=\skip79
+\fb@frw=\dimen178
+\fb@frh=\dimen179
+\FrameRule=\dimen180
+\FrameSep=\dimen181
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.st
 y
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip78
-\LTright=\skip79
-\LTpre=\skip80
-\LTpost=\skip81
-\LTchunksize=\count283
-\LTcapwidth=\dimen180
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count284
-\LT@rows=\count285
-\c@LT@tables=\count286
-\c@LT@chunks=\count287
-\LT@p@ftn=\toks28
+\LTleft=\skip80
+\LTright=\skip81
+\LTpre=\skip82
+\LTpost=\skip83
+\LTchunksize=\count292
+\LTcapwidth=\dimen182
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@cols=\count293
+\LT@rows=\count294
+\c@LT@tables=\count295
+\c@LT@chunks=\count296
+\LT@p@ftn=\toks33
 )
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.st
 y
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen181
-\lightrulewidth=\dimen182
-\cmidrulewidth=\dimen183
-\belowrulesep=\dimen184
-\belowbottomsep=\dimen185
-\aboverulesep=\dimen186
-\abovetopsep=\dimen187
-\cmidrulesep=\dimen188
-\cmidrulekern=\dimen189
-\defaultaddspace=\dimen190
-\@cmidla=\count288
-\@cmidlb=\count289
-\@aboverulesep=\dimen191
-\@belowrulesep=\dimen192
-\@thisruleclass=\count290
-\@lastruleclass=\count291
-\@thisrulewidth=\dimen193
+\heavyrulewidth=\dimen183
+\lightrulewidth=\dimen184
+\cmidrulewidth=\dimen185
+\belowrulesep=\dimen186
+\belowbottomsep=\dimen187
+\aboverulesep=\dimen188
+\abovetopsep=\dimen189
+\cmidrulesep=\dimen190
+\cmidrulekern=\dimen191
+\defaultaddspace=\dimen192
+\@cmidla=\count297
+\@cmidlb=\count298
+\@aboverulesep=\dimen193
+\@belowrulesep=\dimen194
+\@thisruleclass=\count299
+\@lastruleclass=\count300
+\@thisrulewidth=\dimen195
 )
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.st
 y
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box54
-\fn@width=\dimen194
+\fn@notes=\box58
+\fn@width=\dimen196
 ) (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/grffile/grffile.st
 y
 Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
@@ -596,8 +673,8 @@ Package: expl3 2020-08-07 L3 programming layer (loader)
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-
 pdfmode.def
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count292
-\l__pdf_internal_box=\box55
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box59
 ))
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xp
 arse.sty
@@ -605,10 +682,10 @@ Package: xparse 2020-05-15 L3 Experimental document command parser
 
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xp
 arse-generic.tex
-\l__xparse_current_arg_int=\count293
-\g__xparse_grabber_int=\count294
-\l__xparse_m_args_int=\count295
-\l__xparse_v_nesting_int=\count296
+\l__xparse_current_arg_int=\count302
+\g__xparse_grabber_int=\count303
+\l__xparse_m_args_int=\count304
+\l__xparse_v_nesting_int=\count305
 ))
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
@@ -641,6 +718,9 @@ LaTeX Warning: Label `tab:modelos' multiply defined.
 LaTeX Warning: Label `eq:relatividade' multiply defined.
 
 
+LaTeX Warning: Label `alg:on-period-ending' multiply defined.
+
+
 LaTeX Warning: Label `fig:comun-intra-inter' multiply defined.
 
 
@@ -648,6 +728,9 @@ LaTeX Warning: Label `tab:modelos' multiply defined.
 
 
 LaTeX Warning: Label `eq:relatividade' multiply defined.
+
+
+LaTeX Warning: Label `alg:on-period-ending' multiply defined.
 
 )
 \openout1 = `Research-Document.aux'.
@@ -670,6 +753,27 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
 LaTeX Font Info:    ... okay on input line 111.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
 LaTeX Font Info:    ... okay on input line 111.
+\AtBeginShipoutBox=\box60
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf
+-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.
+sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -714,19 +818,6 @@ y
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box56
-
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopd
-f-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf
--sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 Package hyperref Info: Link coloring OFF on input line 111.
 
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -740,7 +831,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 titlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count306
 )
 LaTeX Info: Redefining \ref on input line 111.
 LaTeX Info: Redefining \pageref on input line 111.
@@ -756,16 +847,19 @@ LaTeX Info: Redefining \showhyphens on input line 111.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Info: Redefining \\ on input line 143.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
 43.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 43.
@@ -804,6 +898,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 143.
 <fundo-capa.jpg, id=4, 502.5174pt x 569.4876pt>
 File: fundo-capa.jpg Graphic file (type jpg)
 <use fundo-capa.jpg>
@@ -813,216 +909,304 @@ Package pdftex.def Info: fundo-capa.jpg  used on input line 143.
 
 
 {/Users/jacksontorres/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.
-map} <./fundo-capa.jpg>] [2
+map} <./fundo-capa.jpg>]
+<catalografica.pdf, id=14, 597.50786pt x 845.01837pt>
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf>
+Package pdftex.def Info: catalografica.pdf  used on input line 150.
+(pdftex.def)             Requested size: 455.24123pt x 643.81949pt.
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf>
+Package pdftex.def Info: catalografica.pdf  used on input line 150.
+(pdftex.def)             Requested size: 455.24123pt x 643.81949pt.
+<catalografica.pdf, id=17, page=1, 597.50786pt x 845.01837pt>
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf, page 1>
+Package pdftex.def Info: catalografica.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.5064pt x 845.01631pt.
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf, page 1>
+Package pdftex.def Info: catalografica.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.53374pt x 845.055pt.
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf, page 1>
+Package pdftex.def Info: catalografica.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.53374pt x 845.055pt.
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf, page 1>
+Package pdftex.def Info: catalografica.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.53374pt x 845.055pt.
+File: catalografica.pdf Graphic file (type pdf)
+<use catalografica.pdf, page 1>
+Package pdftex.def Info: catalografica.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.53374pt x 845.055pt.
+[2
 
 
-] [3
+ <./catalografica.pdf>]
+<aprovacao.pdf, id=39, 597.50786pt x 845.04686pt>
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf>
+Package pdftex.def Info: aprovacao.pdf  used on input line 156.
+(pdftex.def)             Requested size: 455.24123pt x 643.84119pt.
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf>
+Package pdftex.def Info: aprovacao.pdf  used on input line 156.
+(pdftex.def)             Requested size: 455.24123pt x 643.84119pt.
+<aprovacao.pdf, id=42, page=1, 597.50786pt x 845.04686pt>
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf, page 1>
+Package pdftex.def Info: aprovacao.pdf , page1 used on input line 156.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf, page 1>
+Package pdftex.def Info: aprovacao.pdf , page1 used on input line 156.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf, page 1>
+Package pdftex.def Info: aprovacao.pdf , page1 used on input line 156.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: aprovacao.pdf Graphic file (type pdf)
+<use aprovacao.pdf, page 1>
+Package pdftex.def Info: aprovacao.pdf , page1 used on input line 156.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+[3 <./aprovacao.pdf>]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 160.
+
+Underfull \hbox (badness 6708) in paragraph at lines 162--163
+[]\T1/lmss/m/sl/12 (+20) Lorem ipsum dolor sit amet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+\T1/lmss/m/sl/12 (+20) consectetur adipiscing elit.
+ []
+
+[4
+
+] [5
 
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 164.
+(Font)              <10> on input line 176.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 164.
+(Font)              <7> on input line 176.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 164.
-[4
+(Font)              <5> on input line 176.
+[6
 
 
-] [5
+] [7
 
 
 ] (./Research-Document.lof)
 \tf@lof=\write4
 \openout4 = `Research-Document.lof'.
 
-[6
+[8
 
 
 ] (./Research-Document.lot)
 \tf@lot=\write5
 \openout5 = `Research-Document.lot'.
 
-[7
+[9
 
 
-] [8
+] [10
 
-] [9
+] [11
 
 
-] (./Research-Document.toc [10
+] (./Research-Document.toc [12
 
 
 ])
 \tf@toc=\write6
 \openout6 = `Research-Document.toc'.
 
-[11]
+[13]
 Chapter 1.
 
-LaTeX Warning: Citation `bibufpr15' on page 12 undefined on input line 207.
+LaTeX Warning: Citation `bibufpr15' on page 14 undefined on input line 221.
 
 
-LaTeX Warning: Citation `maziero15' on page 12 undefined on input line 211.
+LaTeX Warning: Citation `maziero15' on page 14 undefined on input line 225.
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-30.
+44.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 231.
-[12
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 245.
+[14
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-91.
-(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
+305.
+(/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmss.fd
+File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Research-Document_files/figure-latex/unnamed-chunk-9-1.pdf, id=245, 355.3275pt
+<Research-Document_files/figure-latex/unnamed-chunk-7-1.pdf, id=296, 355.3275pt
  x 352.31625pt>
-File: Research-Document_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (
+File: Research-Document_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (
 type pdf)
-<use Research-Document_files/figure-latex/unnamed-chunk-9-1.pdf>
-Package pdftex.def Info: Research-Document_files/figure-latex/unnamed-chunk-9-1
-.pdf  used on input line 299.
+<use Research-Document_files/figure-latex/unnamed-chunk-7-1.pdf>
+Package pdftex.def Info: Research-Document_files/figure-latex/unnamed-chunk-7-1
+.pdf  used on input line 313.
 (pdftex.def)             Requested size: 355.32661pt x 352.31538pt.
-[13] [14 <./Research-Document_files/figure-latex/unnamed-chunk-9-1.pdf>] [15]
+[15] [16 <./Research-Document_files/figure-latex/unnamed-chunk-7-1.pdf>] [17]
 Chapter 2.
 
-LaTeX Warning: Citation `oetiker07' on page 16 undefined on input line 368.
+LaTeX Warning: Citation `oetiker07' on page 18 undefined on input line 384.
 
 
-LaTeX Warning: Citation `goossens93' on page 16 undefined on input line 369.
+LaTeX Warning: Citation `goossens93' on page 18 undefined on input line 385.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-394.
+410.
 (/Users/jacksontorres/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [16
+) [18
 
 ]
-<exemplo-figura.pdf, id=280, 329.23pt x 197.73875pt>
+<exemplo-figura.pdf, id=330, 329.23pt x 197.73875pt>
 File: exemplo-figura.pdf Graphic file (type pdf)
 <use exemplo-figura.pdf>
-Package pdftex.def Info: exemplo-figura.pdf  used on input line 425.
+Package pdftex.def Info: exemplo-figura.pdf  used on input line 441.
 (pdftex.def)             Requested size: 329.2342pt x 197.74127pt.
 
-LaTeX Warning: Citation `goossens93' on page 17 undefined on input line 430.
+LaTeX Warning: Citation `goossens93' on page 19 undefined on input line 446.
 
-[17 <./exemplo-figura.pdf>] [18] [19]
+[19 <./exemplo-figura.pdf>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 532.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 536.
+[20] [21]
 Chapter 3.
 
-LaTeX Warning: Citation `oetiker07' on page 20 undefined on input line 550.
+LaTeX Warning: Citation `oetiker07' on page 22 undefined on input line 589.
 
 
-LaTeX Warning: Citation `goossens93' on page 20 undefined on input line 551.
+LaTeX Warning: Citation `goossens93' on page 22 undefined on input line 590.
 
-[20
+[22
 
 ]
 File: exemplo-figura.pdf Graphic file (type pdf)
 <use exemplo-figura.pdf>
-Package pdftex.def Info: exemplo-figura.pdf  used on input line 607.
+Package pdftex.def Info: exemplo-figura.pdf  used on input line 646.
 (pdftex.def)             Requested size: 329.2342pt x 197.74127pt.
 
-LaTeX Warning: Citation `goossens93' on page 21 undefined on input line 612.
+LaTeX Warning: Citation `goossens93' on page 23 undefined on input line 651.
 
-[21] [22] [23]
+[23] [24] [25]
 Chapter 4.
 
-LaTeX Warning: Citation `oetiker07' on page 24 undefined on input line 732.
+LaTeX Warning: Citation `oetiker07' on page 26 undefined on input line 794.
 
 
-LaTeX Warning: Citation `goossens93' on page 24 undefined on input line 733.
+LaTeX Warning: Citation `goossens93' on page 26 undefined on input line 795.
 
-[24
+[26
 
 ]
 File: exemplo-figura.pdf Graphic file (type pdf)
 <use exemplo-figura.pdf>
-Package pdftex.def Info: exemplo-figura.pdf  used on input line 789.
+Package pdftex.def Info: exemplo-figura.pdf  used on input line 851.
 (pdftex.def)             Requested size: 329.2342pt x 197.74127pt.
 
-LaTeX Warning: Citation `goossens93' on page 25 undefined on input line 794.
+LaTeX Warning: Citation `goossens93' on page 27 undefined on input line 856.
 
-[25] [26] [27]
+[27] [28] [29]
 Chapter 5.
-(./Research-Document.bbl [28
+(./Research-Document.bbl [30
 
-]) [29
+]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 5.
+) [31
 
 ]
 Chapter 6.
-[30
+[32
 
-] [31] [32]
+] [33] [34]
 Chapter 7.
-[33
+[35
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1029.
-[34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1029.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1112.
+[36]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1112.
 (./Research-Document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1029.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1029.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1112.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1112.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1029.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1112.
  ) 
 Here is how much of TeX's memory you used:
- 17264 strings out of 482841
- 271625 string characters out of 5952941
- 834700 words of memory out of 5000000
- 32047 multiletter control sequences out of 15000+600000
- 596908 words of font info for 126 fonts, out of 8000000 for 9000
+ 18415 strings out of 482841
+ 291270 string characters out of 5952941
+ 856039 words of memory out of 5000000
+ 33102 multiletter control sequences out of 15000+600000
+ 631259 words of font info for 140 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 52i,13n,58p,527b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.77} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.76} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection*.74} has been referenced but does not ex
+ 55i,18n,58p,527b,760s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.115} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.73} has been referenced but does not exist
+pdfTeX warning (dest): name{chapter.114} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{chapter.72} has been referenced but does not exist,
- replaced by a fixed one
+pdfTeX warning (dest): name{subsection*.112} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.111} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.110} has been referenced but does not exist
+, replaced by a fixed one
 
 {/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{
-/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.en
-c}{/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-}{/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.
+/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/
+Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+}{/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.
 enc}{/Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.
-enc}</Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx
-12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
+enc}</Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi
+10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/l
 mmi12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public/l
-m/lmr10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public
-/lm/lmr12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/publ
-ic/lm/lmr7.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/pub
-lic/lm/lmr8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/pu
-blic/lm/lmri10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1
-/public/lm/lmri12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/ty
-pe1/public/lm/lmri8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/
-type1/public/lm/lmsy10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fon
-ts/type1/public/lm/lmtk10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/
-fonts/type1/public/lm/lmtt10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-di
-st/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Research-Document.pdf (34 pages, 3416387 bytes).
+m/lmmi8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/public
+/lm/lmr10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/publ
+ic/lm/lmr12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/pu
+blic/lm/lmr7.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/p
+ublic/lm/lmr8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/type1/
+public/lm/lmri10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/typ
+e1/public/lm/lmri8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/fonts/t
+ype1/public/lm/lmss10.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/font
+s/type1/public/lm/lmss12.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist/f
+onts/type1/public/lm/lmss8.pfb></Users/jacksontorres/Library/TinyTeX/texmf-dist
+/fonts/type1/public/lm/lmssbx10.pfb></Users/jacksontorres/Library/TinyTeX/texmf
+-dist/fonts/type1/public/lm/lmsso10.pfb></Users/jacksontorres/Library/TinyTeX/t
+exmf-dist/fonts/type1/public/lm/lmsso12.pfb></Users/jacksontorres/Library/TinyT
+eX/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></Users/jacksontorres/Library/Ti
+nyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/jacksontorres/Library
+/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/jacksontorres/Libr
+ary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/jacksontorres/L
+ibrary/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Research-Document.pdf (36 pages, 3542842 bytes).
 PDF statistics:
- 636 PDF objects out of 1000 (max. 8388607)
- 520 compressed objects within 6 object streams
- 128 named destinations out of 1000 (max. 500000)
- 14752 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 609 compressed objects within 7 object streams
+ 168 named destinations out of 1000 (max. 500000)
+ 22984 words of extra memory for PDF output out of 24883 (max. 10000000)
 

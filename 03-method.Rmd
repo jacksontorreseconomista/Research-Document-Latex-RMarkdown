@@ -1,9 +1,7 @@
 \chapter{Método}
 \label{cap:metodo}
 
----
-#\graphicspath{\currfiledir/figuras/}
----
+\graphicspath{{\currfiledir/figure/}}
 
 \section{Guias de \LaTeX}
 
@@ -138,7 +136,7 @@ Esse pacote também permite incluir códigos-fonte de arquivos externos. Eis um 
 
 Os pacotes \texttt{algorithm} e \texttt{algorithmic} permitem formatar algoritmos facilmente. Eis um exemplo:
 
----
+
 \begin{algorithm}[H]
 \caption{Ações de $s_i$ ao encerrar um ciclo:}
 \label{alg:on-period-ending}
@@ -159,7 +157,7 @@ Os pacotes \texttt{algorithm} e \texttt{algorithmic} permitem formatar algoritmo
 \end{algorithmic}
 \end{small}
 \end{algorithm}
----
+
 
 \subsection{Exemplo de citação}
 

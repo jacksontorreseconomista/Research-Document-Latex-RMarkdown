@@ -1,6 +1,6 @@
 \begin{dedica}
 
-Isso é um teste, isso é um teste, isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id consectetur magna. Aenean varius sed eros at pharetra. Duis orci dui, malesuada id ipsum vel, tempus consectetur risus.
 
 \end{dedica}
 
