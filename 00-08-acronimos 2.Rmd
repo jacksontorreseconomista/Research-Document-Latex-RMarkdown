@@ -1,0 +1,10 @@
+\begin{listaacron}
+
+\begin{longtable}{r r}
+\caption{This table shows the volatges and temperatures of the cell immediately before and immediately after cell failure}\\
+DINF & Departamento de Informática\\
+PPGINF & Programa de Pós-Graduação em Informática\\
+UFPR & Universidade Federal do Paraná\\
+\end{longtable}
+
+\end{listaacron}

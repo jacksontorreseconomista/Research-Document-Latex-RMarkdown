@@ -1,7 +1,10 @@
 \begin{listasimb}
 
-\begin{longtable}[l]{p{0.2\linewidth}p{0.7\linewidth}}
-
-\end{longtable}
+```{r, echo=FALSE, message=FALSE, results='asis'}
+library(knitr)
+simb <- data.frame(Simbolo = c('A', 'B', 'C'), Descrição = c('Descrição A', 'Descrição B', 'Descrição C'))
+simb <- kable(simb, align = 'l', )
+print(simb, justify)
+```
 
 \end{listasimb}

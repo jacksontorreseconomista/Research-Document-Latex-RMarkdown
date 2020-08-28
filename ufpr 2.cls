@@ -44,8 +44,6 @@
 
 \newenvironment{lstlisting}{}
 
-\newenvironment{longtable}
-
 % OPÇÕES DESTA CLASSE
 
 % flags de controle

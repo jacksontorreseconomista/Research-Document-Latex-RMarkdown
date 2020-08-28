@@ -1,10 +1,10 @@
 \begin{listaacron}
 
-\begin{longtable}{r r}
-\caption{This table shows the volatges and temperatures of the cell immediately before and immediately after cell failure}\\
-DINF & Departamento de Informática\\
-PPGINF & Programa de Pós-Graduação em Informática\\
-UFPR & Universidade Federal do Paraná\\
-\end{longtable}
+```{r, echo=FALSE, message=FALSE, results='asis'}
+library(knitr)
+simba <- data.frame(Simbolo = c('UFPR', 'BACEN', 'FEBRABAN'), Descrição = c('Universidade Federal do Paraná', 'Banco Central do Brasil', 'Federação dos Bancos do Brasil'))
+simba <- kable(simba, align = 'l', )
+print(simba, justify)
+```
 
 \end{listaacron}

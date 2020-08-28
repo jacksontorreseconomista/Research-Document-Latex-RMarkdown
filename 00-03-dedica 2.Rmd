@@ -1,0 +1,6 @@
+\begin{dedica}
+
+Isso é um teste, isso é um teste, isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste,isso é um teste.
+
+\end{dedica}
+
