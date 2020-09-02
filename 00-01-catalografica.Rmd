@@ -1,7 +1,7 @@
-\begin{document}
+\begin{catalografica}
 
 \includepdf{catalografica.pdf}
 
-\end{document} 
+\end{catalografica}
 
 

@@ -4,26 +4,30 @@
 
 % ------------------------------------------------------------------------------
 
-\usepackage{lstlisting}
 \usepackage{lipsum}
+\usepackage{caption}
 
+\usepackage{grffile}
+\usepackage{pdfpages}
+%\usepackage{bookmark}
 
 % Definição de fontes
 
 %\usepackage{pslatex}
 %\usepackage{times}
 %\usepackage{tgtermes}
-\usepackage{mathptmx}
-\renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries}
+%\usepackage{mathptmx}
+%\renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries}
 
 % formato dos arquivos-fonte (utf8 no Linux e latin1 no Windows)
 \usepackage[utf8]{inputenc}	% arquivos LaTeX em Unicode (UTF8)
 
 % usar codificação T1 para ter caracteres acentuados corretos no PDF
-\usepackage[T1]{fontenc}
+%\usepackage[T1]{fontenc}
+%\usepackage[style=abnt]{biblatex}
 
 % fonte usada no corpo do texto (pode alterar, mas descomente apenas uma)
-%\usepackage{newtxtext,newtxmath}	% Times (se não tiver, use mathptmx)
+\usepackage{newtxtext,newtxmath}	% Times (se não tiver, use mathptmx)
 %\usepackage{lmodern}			% Computer Modern (fonte clássico LaTeX)
 %\usepackage{kpfonts}			% Kepler/Palatino (idem, use mathpazo)
 %\renewcommand{\familydefault}{\sfdefault} % Arial/Helvética (leia abaixo)
@@ -49,7 +53,7 @@
 % ------------------------------------------------------------------------------
 
 % inclusão/formatação de código-fonte (programas)
-\usepackage{listings}
+%\usepackage{listings}
 \lstset{language=c}
 \lstset{basicstyle=\ttfamily\footnotesize,commentstyle=\textit,stringstyle=\ttfamily}
 \lstset{showspaces=false,showtabs=false,showstringspaces=false}
@@ -66,7 +70,7 @@
                  {ú}{{\'u}}1  {Ú}{{\'U}}1
                  {ç}{{\c{c}}}1 {Ç}{{\c{C}}}1 }
 
-% ------------------------------------------------------------------------------
+% ----------------------------------------------------------------
 
 % formatação de algoritmos
 \usepackage{algorithm,algorithmic}
@@ -84,7 +88,7 @@
 % ------------------------------------------------------------------------------
 
 % fontes adicionais
-%\usepackage{amsmath}		% pacotes matemáticos
+\usepackage{amsmath}		% pacotes matemáticos
 %\usepackage{amsfonts}		% fontes matemáticas 
 %\usepackage{amssymb}		% símbolos 
 
@@ -94,7 +98,7 @@
 \usepackage{alltt,moreverb}	% mais comandos no modo verbatim
 		% gera texto aleatório (para os exemplos)
 \usepackage{currfile}		% infos sobre o arquivo/diretório atual
-\usepackage[final]{pdfpages}	% inclusão de páginas em PDF
+\usepackage{pdfpages}	% inclusão de páginas em PDF
 \usepackage{longtable}		% tabelas multi-páginas (tab símbolos/acrônimos)
 
 % ------------------------------------------------------------------------------

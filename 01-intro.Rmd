@@ -1,9 +1,33 @@
 \chapter{Introdução}
 
-
 Este modelo foi proposto com o intuito de padronizar e simplificar as monografias, dissertações e teses produzidas no Departamento de Informática da UFPR. Ele foi vagamente inspirado nas normas da ABNT (conforme indicado em \cite{bibufpr15}), mas não as segue \emph{ipsis litteris}. Várias alterações foram feitas com o objetivo de melhorar sua estética e tornar o texto mais legível para trabalhos na área de informática. A versão atualizada deste modelo está disponível em \cite{maziero15}.
 
-Este modelo está baseado em uma classe especifica \verb#ppginf.cls#, que aceita várias opções de compilação. A versão do documento pode ser:
+Abaixo é um teste para geração de Tabelas com código R dentro do environment Latex
+
+```{r, echo=FALSE, message=FALSE, results='asis'}
+library(knitr)
+simb <- data.frame(Simbolo = c('A', 'B', 'C'), Descrição = c('Descrição A', 'Descrição B', 'Descrição C'))
+simb <- kable(simb, align = 'l', )
+print(simb, justify)
+```
+
+Calculando a média no R:
+```{r, echo=TRUE, message=FALSE, results='asis'}
+vector <- c(2,4,6,8,10)
+mean.vector <- mean(vector)
+cat('A média do vetor é:', mean.vector)
+```
+
+```{r, echo=TRUE, message=FALSE, results='asis'}
+summary(mtcars)
+```
+
+```{r, echo=TRUE, message=FALSE, results='asis'}
+str(mtcars)
+```
+
+
+Este modelo está baseado em uma classe especifica \verb#ufpr.cls#, que aceita várias opções de compilação. A versão do documento pode ser:
 
 \begin{itemize}
 
@@ -12,6 +36,27 @@ Este modelo está baseado em uma classe especifica \verb#ppginf.cls#, que aceita
 \item \verb#final#: é gerado um documento em espaço simples, frente/verso, com páginas iniciais (capa, ficha catalográfica, folha de aprovação, agradecimentos, etc). É uma versão bem mais compacta, mais ecológica e ideal para a impressão definitiva.
 
 \end{itemize}
+
+
+Modelo de gráfico em código R:
+
+```{r echo=FALSE, message=FALSE, results='asis', fig.height= 5, fig.width= 5}
+library(ggplot2)
+g <- ggplot(mtcars, aes(y = mpg, x = hp)) +
+        geom_point(col = 'blue')+
+        geom_smooth(method= "lm")+
+        labs(subtitle="Consumo de Combustível", 
+             y="Consumo de Combustível",
+             x="Cavalos de Potência", 
+             title="Scatterplot", 
+             caption = "Data Base")
+print(g, format = justify)
+```
+\begin{figure}[!htb]
+\centering
+\caption{Gráfico GGPlot para Teste}
+\label{fig:ggplot}
+\end{figure}
 
 Para obter os melhores resultados, compile este modelo usando a seguinte sequência de passos:
 

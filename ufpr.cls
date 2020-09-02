@@ -43,6 +43,31 @@
 %------------------------------------------------------------------------------
 
 \newenvironment{lstlisting}{}
+%\usepackage{listings}
+
+\newenvironment{longtable}{}
+
+\newenvironment{catalografica}{}
+
+\usepackage{pdfpages}
+
+%\usepackage{pslatex}
+%\usepackage{times}
+\usepackage{tgtermes}
+\usepackage{mathptmx}
+
+
+%\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+
+
+\usepackage{graphicx}
+\usepackage[abspath]{currfile}
+
+\usepackage{algorithm,algorithmic}
+
+
+%\renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries}
 
 % OPÇÕES DESTA CLASSE
 
@@ -87,17 +112,17 @@
 % ------------------------------------------------------------------------------
 
 % suporte a texto com múltiplas linguas
-\usepackage{babel}
+\usepackage[brazilian]{babel}
 \usepackage{iflang}
 
 % nomes dos capítulos/seções/campos/etc em português e inglês
 \IfLanguageName{brazilian}
 {
-  \def\@listacronyms{LISTA DE ACR\^ONIMOS}
-  \def\@listsymbols{LISTA DE S\'IMBOLOS}
+  \def\@listacronyms{LISTA DE ACRÔNIMOS}
+  \def\@listsymbols{LISTA DE SÍIMBOLOS}
   \def\@chapthanks{AGRADECIMENTOS}
-  \def\@tagappendix{AP\^ENDICE}
-  \def\@tagfield{\'Area de concentra\c{c}\~ao}
+  \def\@tagappendix{APÊNDICE}
+  \def\@tagfield{Área de concentração}
   \def\@tagadvisor{Orientador}
   \def\@tagcoadvisor{Coorientador}
 }
@@ -110,7 +135,7 @@
 %  \def\@tagfield{Field}
 %  \def\@tagadvisor{Advisor}
 %  \def\@tagcoadvisor{Co-advisor}
-  \def\@tagfield{\'Area de concentra\c{c}\~ao}
+  \def\@tagfield{Área de concentração}
   \def\@tagadvisor{Orientador}
   \def\@tagcoadvisor{Coorientador}
 }

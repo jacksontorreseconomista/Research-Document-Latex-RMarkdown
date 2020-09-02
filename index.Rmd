@@ -1,13 +1,17 @@
 --- 
 date: 2020
-output: pdf_document
+output: 
+- pdf_document
+- word_document
 documentclass: ufpr
 header-includes: 
 - \usepackage{lipsum}
+- \usepackage{helvet}
+- \renewcommand{\familydefault}{\sfdefault}
 link-citations: yes
 bibliography: book.bib
 site: bookdown::bookdown_site
-biblio-style: apalike-ptbr.bst
+biblio-style: acm
 ---
 
 
